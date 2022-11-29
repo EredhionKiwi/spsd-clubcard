@@ -1,0 +1,60 @@
+/*CSS Document*/
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+body{
+    background-color: #433322;
+
+}
+
+
+
+
+
+h1 {
+background-color: #AD8E6B;
+margin: auto;
+margin-bottom: 15px;
+text-align: center;
+width: 25%;
+border-radius: 15px;
+padding-bottom: 5px;
+padding-top: 3px;
+}
+
+#login-form{
+    font-family: 'Roboto';
+    background-color: #907455;
+    text-align: center;
+    margin-top:15%;
+    margin-left:35%;
+    margin-Right:35%;
+    padding-top: 25px;
+    padding-bottom: 50px;
+    font-size: 20px;
+    outline: #1E150C solid 10px;
+    border-radius: 15px;
+}
+input[type=email] {
+    width: 300px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    outline: #1E150C solid 3px;
+
+}
+
+input[type=password] {
+    width: 300px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    outline: #1E150C solid 3px;
+
+
+}
+
+input[type=submit] {
+    width: 150px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top:10px;
+    outline: #1E150C solid 3px;
+    border-radius: 15px;
+    }
